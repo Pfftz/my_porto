@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abdulhadi Muntashir",
-  title: "GameDev & Content Creator",
+  title: "Cloud Practicioner | The Rizzler",
   email: "3337230041@untirta.ac.id",
   gitHub: "microsoft",
   instagram: "@abdulhd01",

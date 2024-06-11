@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Machine Learning student studying at Sultan Ageng Tirtayasa University. I enjoy creating unique and simplistic AI in creative ways.";
+  "I'm an Informatic student studying at Sultan Ageng Tirtayasa University. I enjoy creating unique and simplistic Games in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,12 +32,16 @@ const description =
  */
 const skillsList = [
   "C++",
+  "Express.js",
+  "Figma",
+  "Django",
+  "AWS",
+  "AWS certified Cloud Practitioner",
   "Python",
   "JavaScript",
   "C#",
   "Node.js",
   "Game Tester",
-  "Focus group testing",
   "Game design",
   "Unity",
   "Excel",
