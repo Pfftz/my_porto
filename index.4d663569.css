@@ -47,6 +47,10 @@ h1 {
   line-height: .8;
 }
 
+h1.name {
+  color: #fff;
+}
+
 h2 {
   margin: 0;
   padding-top: 1rem;
@@ -88,7 +92,7 @@ li::marker {
 }
 
 a {
-  color: #961919;
+  color: #852727;
   text-decoration: none;
 }
 
