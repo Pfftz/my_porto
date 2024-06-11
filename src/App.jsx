@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/abdulhadi-muntashir-8135b21a7/",
   medium: "",
   X: "microsoft",
-  youTube: "Code",
+  youTube: "https://www.youtube.com/watch?v=8GW6sLrK40k",
 };
 
 const primaryColor = "#4E567E";
