@@ -27095,7 +27095,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "https://www.linkedin.com/in/abdulhadi-muntashir-8135b21a7/",
     medium: "",
     X: "microsoft",
-    youTube: "Code"
+    youTube: "https://www.youtube.com/watch?v=8GW6sLrK40k"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28667,6 +28667,7 @@ const Home = ({ name , title  })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                        class: "title",
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
@@ -28761,8 +28762,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _ninokuniPng = require("../images/ninokuni.png");
-var _ninokuniPngDefault = parcelHelpers.interopDefault(_ninokuniPng);
+ */ var _motivasiJpg = require("../images/motivasi.jpg");
+var _motivasiJpgDefault = parcelHelpers.interopDefault(_motivasiJpg);
 const imageAltText = "desktop with books and laptop";
 /**
  * Project list
@@ -28771,24 +28772,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Kumpulan Project Gajelas",
+        description: "Shout Out to the GOAT Codepolitan. note: dibuka semua pak projectnya :[",
+        url: "https://pfftz.github.io/Codepolitan_sir/"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "Blog-blog PTI",
+        description: "Pake wordpress ajah.",
+        url: "https://tutorpuh.wordpress.com/2023/09/13/arpanettoai/"
     },
     {
         title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        description: "WAJIB LIAT!!! -INI PERINTAH ADMIN",
+        url: "https://www.youtube.com/watch?v=Iq4Ur-7RIY4"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Home",
+        description: "PEAK",
+        url: "https://www.youtube.com/watch?v=8GW6sLrK40k"
     }, 
 ];
 const Portfolio = ()=>{
@@ -28819,11 +28820,12 @@ const Portfolio = ()=>{
                             alignSelf: "center"
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: (0, _ninokuniPngDefault.default),
+                            src: (0, _motivasiJpgDefault.default),
                             style: {
                                 height: "90%",
                                 width: "100%",
-                                objectFit: "cover"
+                                objectFit: "cover",
+                                animation: "1s ease-out 0s 1 slideIn"
                             },
                             alt: imageAltText
                         }, void 0, false, {
@@ -28902,8 +28904,8 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/ninokuni.png":"fTMwr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fTMwr":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "ninokuni.595b4b52.png" + "?" + Date.now();
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/motivasi.jpg":"bLgvV","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"bLgvV":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "motivasi.1ab75c45.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
 
