@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Kumpulan Project Gajelas",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Shout Out to the GOAT Codepolitan. note: dibuka semua pak projectnya :[",
+    url: "https://pfftz.github.io/Codepolitan_sir/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blog-blog PTI",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Pake wordpress ajah.",
+    url: "https://tutorpuh.wordpress.com/2023/09/13/arpanettoai/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "WAJIB LIAT!!! -INI PERINTAH ADMIN",
+    url: "https://www.youtube.com/watch?v=Iq4Ur-7RIY4",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Home",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "PEAK",
+    url: "https://www.youtube.com/watch?v=8GW6sLrK40k",
   },
 ];
 
