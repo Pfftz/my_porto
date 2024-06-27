@@ -27090,12 +27090,12 @@ var _stylesCss = require("./styles.css");
     name: "Abdulhadi Muntashir",
     title: "Cloud Practicioner | The Rizzler",
     email: "3337230041@untirta.ac.id",
-    gitHub: "microsoft",
-    instagram: "@abdulhd01",
-    linkedIn: "https://www.linkedin.com/in/abdulhadi-muntashir-8135b21a7/",
+    gitHub: "Pfftz",
+    instagram: "abdulhd01",
+    linkedIn: "abdulhadi-muntashir-8135b21a7/",
     medium: "",
     X: "microsoft",
-    youTube: "https://www.youtube.com/watch?v=8GW6sLrK40k"
+    youTube: "watch?v=-DSVDcw6iW8"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27687,7 +27687,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                         columnNumber: 11
                     }, undefined),
                     youTube && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: `https://www.youtube.com/c/${youTube}`,
+                        href: `https://www.youtube.com/${youTube}`,
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
