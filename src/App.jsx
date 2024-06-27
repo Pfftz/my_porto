@@ -27,12 +27,12 @@ const siteProps = {
   name: "Abdulhadi Muntashir",
   title: "Cloud Practicioner | The Rizzler",
   email: "3337230041@untirta.ac.id",
-  gitHub: "microsoft",
-  instagram: "@abdulhd01",
-  linkedIn: "https://www.linkedin.com/in/abdulhadi-muntashir-8135b21a7/",
+  gitHub: "Pfftz",
+  instagram: "abdulhd01",
+  linkedIn: "abdulhadi-muntashir-8135b21a7/",
   medium: "",
   X: "microsoft",
-  youTube: "https://www.youtube.com/watch?v=8GW6sLrK40k",
+  youTube: "watch?v=-DSVDcw6iW8",
 };
 
 const primaryColor = "#4E567E";
